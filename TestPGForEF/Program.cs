@@ -27,7 +27,7 @@ namespace TestPGForEF
                     db.Students.Add(student5);
                     db.Students.Add(student6);
                 db.SaveChanges();
-               Console.WriteLine("List is done successfully ");
+               Console.WriteLine("List was done successfully ");
                 
 
                 
